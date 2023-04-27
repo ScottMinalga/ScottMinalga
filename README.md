@@ -4,7 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programer
 ---------
 
-After years of working in different industries, I'm excited to be going back to school to pursue my passion for programming. 🚀 Despite the challenges of juggling work and school, I remain focused and determined to succeed in this exciting field. Even though my current job isn't in programming, I'm committed to applying my skills and knowledge towards building a successful career in the tech industry. 🔧 When I'm not studying or working, I love spending time with my family - they mean everything to me! ❤️ As a dedicated husband and father, I always make time to create special memories with my loved ones. I'm grateful for the opportunities that have come my way and am excited to see what the future holds. Follow me on my journey as I pursue my dreams and share updates on my progress! 🌟
+After years of working in different industries, I'm excited to be going back to school to pursue my passion for programming. 🚀
+
+Despite the challenges of juggling work and school, I remain focused and determined to succeed in this exciting field. Even though my current job isn't in programming, I'm committed to applying my skills and knowledge towards building a successful career in the tech industry. 🔧
+
+When I'm not studying or working, I love spending time with my family - they mean everything to me! ❤️
+As a dedicated husband and father, I always make time to create special memories with my loved ones. 
+
+I'm grateful for the opportunities that have come my way and am excited to see what the future holds. Follow me on my journey as I pursue my dreams and share updates on my progress! 🌟
 
 * 🌍  I'm based in Massachusetts
 * 🖥️  See my portfolio at [Github](http://github.com/ScottMinalga)
